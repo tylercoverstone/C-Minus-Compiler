@@ -38,6 +38,9 @@ If one does not use the shell scripts, they can compile and run the program
 with the following commands:
 
 javac LexicalAnalyzer/LexicalAnalyzer.java
+
 javac Parser.java
+
 java LexicalAnalyzer/LexicalAnalyzer *inputfile*
+
 java Parser LexicalAnalyzer/intermediate.txt
