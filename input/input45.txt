@@ -1,0 +1,18 @@
+/* test15  misspelled else*/
+
+int q[6];
+
+int noclue(int z[])
+{
+	int s;
+	if(z[1]=7)
+		return z;
+	while(r>z)
+	{if (x==2)
+			return x;
+	els
+	        return y;
+	}
+
+
+}
